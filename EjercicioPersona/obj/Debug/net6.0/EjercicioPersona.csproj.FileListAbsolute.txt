@@ -1,0 +1,15 @@
+C:\Users\labinf4\source\repos\EjercicioPersona\bin\Debug\net6.0\EjercicioPersona.exe
+C:\Users\labinf4\source\repos\EjercicioPersona\bin\Debug\net6.0\EjercicioPersona.deps.json
+C:\Users\labinf4\source\repos\EjercicioPersona\bin\Debug\net6.0\EjercicioPersona.runtimeconfig.json
+C:\Users\labinf4\source\repos\EjercicioPersona\bin\Debug\net6.0\EjercicioPersona.dll
+C:\Users\labinf4\source\repos\EjercicioPersona\bin\Debug\net6.0\EjercicioPersona.pdb
+C:\Users\labinf4\source\repos\EjercicioPersona\obj\Debug\net6.0\EjercicioPersona.csproj.AssemblyReference.cache
+C:\Users\labinf4\source\repos\EjercicioPersona\obj\Debug\net6.0\EjercicioPersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labinf4\source\repos\EjercicioPersona\obj\Debug\net6.0\EjercicioPersona.AssemblyInfoInputs.cache
+C:\Users\labinf4\source\repos\EjercicioPersona\obj\Debug\net6.0\EjercicioPersona.AssemblyInfo.cs
+C:\Users\labinf4\source\repos\EjercicioPersona\obj\Debug\net6.0\EjercicioPersona.csproj.CoreCompileInputs.cache
+C:\Users\labinf4\source\repos\EjercicioPersona\obj\Debug\net6.0\EjercicioPersona.dll
+C:\Users\labinf4\source\repos\EjercicioPersona\obj\Debug\net6.0\refint\EjercicioPersona.dll
+C:\Users\labinf4\source\repos\EjercicioPersona\obj\Debug\net6.0\EjercicioPersona.pdb
+C:\Users\labinf4\source\repos\EjercicioPersona\obj\Debug\net6.0\EjercicioPersona.genruntimeconfig.cache
+C:\Users\labinf4\source\repos\EjercicioPersona\obj\Debug\net6.0\ref\EjercicioPersona.dll
