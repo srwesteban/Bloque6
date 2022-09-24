@@ -1,0 +1,15 @@
+C:\Users\W\Documents\GitHub\Bloque6\Herencia\bin\Debug\net6.0\Circulo.exe
+C:\Users\W\Documents\GitHub\Bloque6\Herencia\bin\Debug\net6.0\Circulo.deps.json
+C:\Users\W\Documents\GitHub\Bloque6\Herencia\bin\Debug\net6.0\Circulo.runtimeconfig.json
+C:\Users\W\Documents\GitHub\Bloque6\Herencia\bin\Debug\net6.0\Circulo.dll
+C:\Users\W\Documents\GitHub\Bloque6\Herencia\bin\Debug\net6.0\Circulo.pdb
+C:\Users\W\Documents\GitHub\Bloque6\Herencia\obj\Debug\net6.0\Circulo.csproj.AssemblyReference.cache
+C:\Users\W\Documents\GitHub\Bloque6\Herencia\obj\Debug\net6.0\Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W\Documents\GitHub\Bloque6\Herencia\obj\Debug\net6.0\Circulo.AssemblyInfoInputs.cache
+C:\Users\W\Documents\GitHub\Bloque6\Herencia\obj\Debug\net6.0\Circulo.AssemblyInfo.cs
+C:\Users\W\Documents\GitHub\Bloque6\Herencia\obj\Debug\net6.0\Circulo.csproj.CoreCompileInputs.cache
+C:\Users\W\Documents\GitHub\Bloque6\Herencia\obj\Debug\net6.0\Circulo.dll
+C:\Users\W\Documents\GitHub\Bloque6\Herencia\obj\Debug\net6.0\refint\Circulo.dll
+C:\Users\W\Documents\GitHub\Bloque6\Herencia\obj\Debug\net6.0\Circulo.pdb
+C:\Users\W\Documents\GitHub\Bloque6\Herencia\obj\Debug\net6.0\Circulo.genruntimeconfig.cache
+C:\Users\W\Documents\GitHub\Bloque6\Herencia\obj\Debug\net6.0\ref\Circulo.dll

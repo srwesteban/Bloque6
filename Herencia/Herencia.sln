@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Circulo", "Circulo.csproj",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioPersona", "..\EjercicioPersona\EjercicioPersona.csproj", "{D292B4D8-5402-48EF-817A-98516BADE374}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shape", "..\shape\shape.csproj", "{97CD2654-9ED4-4B91-9AC9-4935AAA54B7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioShape", "..\shape\EjercicioShape.csproj", "{97CD2654-9ED4-4B91-9AC9-4935AAA54B7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

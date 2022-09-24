@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\W\\Documents\\GitHub\\Bloque6\\shape\\shape.csproj",
-      "projectName": "shape",
-      "projectPath": "C:\\Users\\W\\Documents\\GitHub\\Bloque6\\shape\\shape.csproj",
+      "projectUniqueName": "C:\\Users\\W\\Documents\\GitHub\\Bloque6\\shape\\EjercicioShape.csproj",
+      "projectName": "EjercicioShape",
+      "projectPath": "C:\\Users\\W\\Documents\\GitHub\\Bloque6\\shape\\EjercicioShape.csproj",
       "packagesPath": "C:\\Users\\W\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\W\\Documents\\GitHub\\Bloque6\\shape\\obj\\",
       "projectStyle": "PackageReference",

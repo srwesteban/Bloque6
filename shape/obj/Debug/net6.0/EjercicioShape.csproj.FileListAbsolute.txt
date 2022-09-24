@@ -1,0 +1,15 @@
+C:\Users\W\Documents\GitHub\Bloque6\shape\bin\Debug\net6.0\EjercicioShape.exe
+C:\Users\W\Documents\GitHub\Bloque6\shape\bin\Debug\net6.0\EjercicioShape.deps.json
+C:\Users\W\Documents\GitHub\Bloque6\shape\bin\Debug\net6.0\EjercicioShape.runtimeconfig.json
+C:\Users\W\Documents\GitHub\Bloque6\shape\bin\Debug\net6.0\EjercicioShape.dll
+C:\Users\W\Documents\GitHub\Bloque6\shape\bin\Debug\net6.0\EjercicioShape.pdb
+C:\Users\W\Documents\GitHub\Bloque6\shape\obj\Debug\net6.0\EjercicioShape.csproj.AssemblyReference.cache
+C:\Users\W\Documents\GitHub\Bloque6\shape\obj\Debug\net6.0\EjercicioShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W\Documents\GitHub\Bloque6\shape\obj\Debug\net6.0\EjercicioShape.AssemblyInfoInputs.cache
+C:\Users\W\Documents\GitHub\Bloque6\shape\obj\Debug\net6.0\EjercicioShape.AssemblyInfo.cs
+C:\Users\W\Documents\GitHub\Bloque6\shape\obj\Debug\net6.0\EjercicioShape.csproj.CoreCompileInputs.cache
+C:\Users\W\Documents\GitHub\Bloque6\shape\obj\Debug\net6.0\EjercicioShape.dll
+C:\Users\W\Documents\GitHub\Bloque6\shape\obj\Debug\net6.0\refint\EjercicioShape.dll
+C:\Users\W\Documents\GitHub\Bloque6\shape\obj\Debug\net6.0\EjercicioShape.pdb
+C:\Users\W\Documents\GitHub\Bloque6\shape\obj\Debug\net6.0\EjercicioShape.genruntimeconfig.cache
+C:\Users\W\Documents\GitHub\Bloque6\shape\obj\Debug\net6.0\ref\EjercicioShape.dll
