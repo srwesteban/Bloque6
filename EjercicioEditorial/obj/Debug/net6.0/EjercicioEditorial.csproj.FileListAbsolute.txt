@@ -1,0 +1,15 @@
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioEditorial\bin\Debug\net6.0\EjercicioEditorial.exe
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioEditorial\bin\Debug\net6.0\EjercicioEditorial.deps.json
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioEditorial\bin\Debug\net6.0\EjercicioEditorial.runtimeconfig.json
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioEditorial\bin\Debug\net6.0\EjercicioEditorial.dll
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioEditorial\bin\Debug\net6.0\EjercicioEditorial.pdb
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioEditorial\obj\Debug\net6.0\EjercicioEditorial.csproj.AssemblyReference.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioEditorial\obj\Debug\net6.0\EjercicioEditorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioEditorial\obj\Debug\net6.0\EjercicioEditorial.AssemblyInfoInputs.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioEditorial\obj\Debug\net6.0\EjercicioEditorial.AssemblyInfo.cs
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioEditorial\obj\Debug\net6.0\EjercicioEditorial.csproj.CoreCompileInputs.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioEditorial\obj\Debug\net6.0\EjercicioEditorial.dll
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioEditorial\obj\Debug\net6.0\refint\EjercicioEditorial.dll
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioEditorial\obj\Debug\net6.0\EjercicioEditorial.pdb
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioEditorial\obj\Debug\net6.0\EjercicioEditorial.genruntimeconfig.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioEditorial\obj\Debug\net6.0\ref\EjercicioEditorial.dll

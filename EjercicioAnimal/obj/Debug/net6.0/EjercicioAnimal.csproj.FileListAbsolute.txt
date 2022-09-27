@@ -1,0 +1,15 @@
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioAnimal\bin\Debug\net6.0\EjercicioAnimal.exe
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioAnimal\bin\Debug\net6.0\EjercicioAnimal.deps.json
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioAnimal\bin\Debug\net6.0\EjercicioAnimal.runtimeconfig.json
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioAnimal\bin\Debug\net6.0\EjercicioAnimal.dll
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioAnimal\bin\Debug\net6.0\EjercicioAnimal.pdb
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioAnimal\obj\Debug\net6.0\EjercicioAnimal.csproj.AssemblyReference.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioAnimal\obj\Debug\net6.0\EjercicioAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioAnimal\obj\Debug\net6.0\EjercicioAnimal.AssemblyInfoInputs.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioAnimal\obj\Debug\net6.0\EjercicioAnimal.AssemblyInfo.cs
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioAnimal\obj\Debug\net6.0\EjercicioAnimal.csproj.CoreCompileInputs.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioAnimal\obj\Debug\net6.0\EjercicioAnimal.dll
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioAnimal\obj\Debug\net6.0\refint\EjercicioAnimal.dll
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioAnimal\obj\Debug\net6.0\EjercicioAnimal.pdb
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioAnimal\obj\Debug\net6.0\EjercicioAnimal.genruntimeconfig.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioAnimal\obj\Debug\net6.0\ref\EjercicioAnimal.dll

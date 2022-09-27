@@ -1,0 +1,15 @@
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioJerarquia\bin\Debug\net6.0\EjercicioJerarquia.exe
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioJerarquia\bin\Debug\net6.0\EjercicioJerarquia.deps.json
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioJerarquia\bin\Debug\net6.0\EjercicioJerarquia.runtimeconfig.json
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioJerarquia\bin\Debug\net6.0\EjercicioJerarquia.dll
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioJerarquia\bin\Debug\net6.0\EjercicioJerarquia.pdb
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioJerarquia\obj\Debug\net6.0\EjercicioJerarquia.csproj.AssemblyReference.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioJerarquia\obj\Debug\net6.0\EjercicioJerarquia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioJerarquia\obj\Debug\net6.0\EjercicioJerarquia.AssemblyInfoInputs.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioJerarquia\obj\Debug\net6.0\EjercicioJerarquia.AssemblyInfo.cs
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioJerarquia\obj\Debug\net6.0\EjercicioJerarquia.csproj.CoreCompileInputs.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioJerarquia\obj\Debug\net6.0\EjercicioJerarquia.dll
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioJerarquia\obj\Debug\net6.0\refint\EjercicioJerarquia.dll
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioJerarquia\obj\Debug\net6.0\EjercicioJerarquia.pdb
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioJerarquia\obj\Debug\net6.0\EjercicioJerarquia.genruntimeconfig.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioJerarquia\obj\Debug\net6.0\ref\EjercicioJerarquia.dll

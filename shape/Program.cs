@@ -23,7 +23,7 @@ namespace EjercicioShape
             Rectangle rectangle2 = new Rectangle(2,4);
             Console.WriteLine(rectangle2);
 
-            Rectangle rectangle3 = new Rectangle(2,4,"azul",false);
+            Rectangle rectangle3 = new Rectangle(6,8,"azul",false);
             Console.WriteLine(rectangle3);
             Console.WriteLine();
 
@@ -35,7 +35,7 @@ namespace EjercicioShape
             string color = Console.ReadLine();
             Console.WriteLine("Ingrese el valor en cm de uno de los lados");
             double cm = Convert.ToDouble(Console.ReadLine());            
-            Square square2 = new Square(8,cm,9,color,true);
+            Square square2 = new Square(8876,cm,cm,color,true);
             Console.WriteLine(square2);
 
         }

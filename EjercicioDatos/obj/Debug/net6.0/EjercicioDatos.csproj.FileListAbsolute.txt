@@ -1,0 +1,15 @@
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioDatos\bin\Debug\net6.0\EjercicioDatos.exe
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioDatos\bin\Debug\net6.0\EjercicioDatos.deps.json
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioDatos\bin\Debug\net6.0\EjercicioDatos.runtimeconfig.json
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioDatos\bin\Debug\net6.0\EjercicioDatos.dll
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioDatos\bin\Debug\net6.0\EjercicioDatos.pdb
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioDatos\obj\Debug\net6.0\EjercicioDatos.csproj.AssemblyReference.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioDatos\obj\Debug\net6.0\EjercicioDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioDatos\obj\Debug\net6.0\EjercicioDatos.AssemblyInfoInputs.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioDatos\obj\Debug\net6.0\EjercicioDatos.AssemblyInfo.cs
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioDatos\obj\Debug\net6.0\EjercicioDatos.csproj.CoreCompileInputs.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioDatos\obj\Debug\net6.0\EjercicioDatos.dll
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioDatos\obj\Debug\net6.0\refint\EjercicioDatos.dll
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioDatos\obj\Debug\net6.0\EjercicioDatos.pdb
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioDatos\obj\Debug\net6.0\EjercicioDatos.genruntimeconfig.cache
+C:\Users\W\Documents\GitHub\Bloque6\EjercicioDatos\obj\Debug\net6.0\ref\EjercicioDatos.dll
