@@ -24,12 +24,12 @@ namespace EjercicioJerarquia
         new public double Area()
         {
 
-            return 2 * Math.PI * radio * altura + 2 * Math.PI * Math.Pow(radio, 2);
+            return (2 * Math.PI * radio * altura + 2 * Math.PI * Math.Pow(radio, 2)) - (2 * Math.PI * hueco * altura + 2 * Math.PI * Math.Pow(hueco, 2));
 
         }
         new public double Circunferencia()
         {
-            return 2 * Math.PI * (Math.Pow(radio,2) - Math.Pow(hueco,2)) + 2*Math.PI* radio*altura + 2*Math.PI *altura;
+            return 2 * Math.PI * radio; 
         }
         new public double volumen()
         {

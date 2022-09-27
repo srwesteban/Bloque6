@@ -4,16 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            double radio=3;
+            double radio=7;
             double altura = 5;
-            double radioInterno = 7;
+            double radioInterno = 2;
 
             Circulo circulo = new Circulo();
             circulo.Leer(radio);
-
-            circulo.Area();
-
             Console.WriteLine(circulo);
 
             Cilindro cilindro = new Cilindro();

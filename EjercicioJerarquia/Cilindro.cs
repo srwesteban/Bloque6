@@ -34,7 +34,8 @@ namespace EjercicioJerarquia
         }
         public override string ToString()
         {
-            return $"El area del cilindro es: {Area()} el volumen es: {volumen()} y la circunferencia es: {Circunferencia()}";
+            return $"El area del cilindro es: {Area()} el volumen es: {volumen()} " +
+                $"y la circunferencia es: {Circunferencia()}";
         }
 
     }
